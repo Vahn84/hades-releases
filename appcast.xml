@@ -3,12 +3,12 @@
     <channel>
         <title>Hades</title>
         <item>
-            <title>0.3.6</title>
-            <pubDate>Wed, 01 Jul 2026 03:02:02 +0200</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+            <title>0.3.7</title>
+            <pubDate>Fri, 03 Jul 2026 20:20:35 +0200</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vahn84/hades-releases/releases/download/v0.3.6/Hades-0.3.6.dmg" length="56809054" type="application/octet-stream" sparkle:edSignature="5tKg+Y601JmE9pWizsbe4rTFZLwIOFgi5IMzymQClJOcwx54aYonXWbSNOOqZ1UiZ+Ip9RS3VeUA7DYcdQXbDw=="/>
+            <enclosure url="https://github.com/Vahn84/hades-releases/releases/download/v0.3.7/Hades-0.3.7.dmg" length="56851087" type="application/octet-stream" sparkle:edSignature="/RcbIBZ9DUEmUucdgjdqsWb25XSkNdlCt98MpYy1ql8R23PNVPmaYRE2bK/lOu6oDeKSdSk9TUVvAY9q8waXCQ=="/>
         </item>
     </channel>
 </rss>
